@@ -14,9 +14,6 @@
             "distribution": "internal",
             "android": {
                 "buildType": "apk"
-            },
-            "env": {
-                "EAS_NO_PREBUILD": "1"
             }
         },
         "production": {
